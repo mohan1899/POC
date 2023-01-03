@@ -167,7 +167,7 @@ dash_app.layout = html.Div(
                             ),
                             href="https://www.wsp.com/en-nz/",
                         ),
-                        html.H2("POC"),
+                        html.H2("POC is working fine"),
                         html.Div(
                             dbc.Alert(
                                 children = "",
