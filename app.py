@@ -167,7 +167,7 @@ dash_app.layout = html.Div(
                             ),
                             href="https://www.wsp.com/en-nz/",
                         ),
-                        html.H2("CLOSURE IMPACT ASSESSMENT TOOL"),
+                        html.H2("POC"),
                         html.Div(
                             dbc.Alert(
                                 children = "",
